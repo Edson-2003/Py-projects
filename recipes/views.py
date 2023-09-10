@@ -6,3 +6,6 @@ def home(request):
 
 def contato(request):
 	return HttpResponse('contato')
+
+def sobre(request):
+	return HttpResponse('sobre')
