@@ -16,7 +16,3 @@ for numero in range(0, 10, 2):
 # porém dependendo da situação é nescessário fazer alterações
 for numero in range(9, -1, -1):
 	print(numero)
-
-
-
-

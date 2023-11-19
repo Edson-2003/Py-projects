@@ -108,7 +108,7 @@ print(string)
 string = ' '.join(lista2)
 print(string)
 
-
+###para inverter uma lista basta usar o metodo reverse
 
 
 
